@@ -1,0 +1,56 @@
+body {
+  background-image: linear-gradient(180deg, rgba(234, 60, 121, 1) 0%, rgba(255, 168, 225, 0.7)), url("img/283H.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: 'Bangers', cursive;
+}
+
+footer {text-align:center;
+    position: fixed;
+    bottom:0;
+    width:100%;
+    display:inline-block;}
+
+.container {
+  margin-top: 1%;
+  width: 90%;
+  max-width: 500px;
+}
+.jumbotron {
+  box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.5);
+  opacity: 0.9;
+}
+.avatar {
+  width : 160px;
+  heigth: 160px;
+  box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.5);
+}
+.container2{
+  margin-top: 5%;
+  width: 80%;
+  max-width: 500px;
+}
+h3 {
+  text-decoration: underline;
+}
+ul {
+  padding-left: 0;
+}
+li {
+  list-style: none;
+}
+.social .fa {
+  font-size: 30px;
+}
+.social .fa:hover {
+  opacity: 0.8;
+}
+.fa-facebook {
+  color: #3C5899;
+}
+.fa-twitter {
+  color: #55ACEE;
+}
+.fa-youtube {
+  color: #E32C28;
+}
