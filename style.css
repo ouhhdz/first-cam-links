@@ -9,7 +9,7 @@ body {
 .container {
   margin-top: 1%;
   width: 90%;
-  max-width: 500px;
+  max-width: 400px;
 }
 .jumbotron {
   box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.5);
