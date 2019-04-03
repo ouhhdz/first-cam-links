@@ -2,14 +2,9 @@ body {
   background-image: linear-gradient(180deg, rgba(234, 60, 121, 1) 0%, rgba(255, 168, 225, 0.7)), url("img/283H.jpg");
   background-attachment: fixed;
   background-size: cover;
+  background-position: center;
   font-family: 'Bangers', cursive;
-}
 
-footer {text-align:center;
-    position: fixed;
-    bottom:0;
-    width:100%;
-    display:inline-block;}
 
 .container {
   margin-top: 1%;
